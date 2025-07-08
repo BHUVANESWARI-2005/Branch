@@ -1,1 +1,1 @@
-print('Hello from model-b')
+print('Hello from model-a')
